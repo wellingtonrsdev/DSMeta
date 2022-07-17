@@ -41,6 +41,7 @@ function SalesCard() {
             dateFormat="dd/MM/yyyy"
           />
         </div>
+        {/* Second input date */}
         <div className="dsmeta-form-control-container">
           <DatePicker
             selected={maxDate}
