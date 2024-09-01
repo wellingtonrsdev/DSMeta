@@ -17,25 +17,28 @@ Criar e executar o projeto em seu ambiente de desenvolvimento local é muito fá
 
 1. Clone o código fonte:
 
-   `git clone git@github.com:wellingtonrsdev/dsmeta.git`
+   ```bash
+   git clone git@github.com:wellingtonrsdev/dsmeta.git
 
-2. Dentro da pasta **frontend**, abra um terminal e instale as dependências do package.json:
+3. Dentro da pasta **frontend**, abra um terminal e instale as dependências do package.json:
 
-   `yarn install`
+   ```bash
+   yarn install
 
-3. Execute um servidor de desenvolvimento local:
+4. Execute um servidor de desenvolvimento local:
 
-   `yarn dev`
+   ```bash
+   yarn dev
 
-   O projeto está em execução e pode ser acessado apontando um navegador da Web em http://localhost:3000/
 
-4. Em sua IDE de preferência, importe a pasta **backend** e faça o update das dependências do maven
+5. Em sua IDE de preferência, importe a pasta **backend** e faça o update das dependências do maven
+6. O projeto está em execução e pode ser acessado apontando um navegador da Web em http://localhost:3000/
 
-5. Criar uma conta no site https://www.twilio.com/pt-br/ para obter as variaveis de ambiente e inserir em seu projeto para o envio do SMS
+7. Criar uma conta no site https://www.twilio.com/pt-br/ para obter as variaveis de ambiente e inserir em seu projeto para o envio do SMS
 
-6. Ao executar o projeto, pode ser acessado apontando um navegador da Web em http://localhost:8080/
+8. Ao executar o projeto, pode ser acessado apontando um navegador da Web em http://localhost:8080/
 
-7. Collections do postman para fazer as requisições GET para envio do SMS e consulta dos vendedores e filtragem por data
+9. Collections do postman para fazer as requisições GET para envio do SMS e consulta dos vendedores e filtragem por data
 
  - https://www.getpostman.com/collections/1d1ecdfa287021e3183b
 
