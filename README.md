@@ -19,17 +19,19 @@ Criar e executar o projeto em seu ambiente de desenvolvimento local é muito fá
 
    ```bash
    git clone git@github.com:wellingtonrsdev/dsmeta.git
+   ```
 
 3. Dentro da pasta **frontend**, abra um terminal e instale as dependências do package.json:
 
    ```bash
    yarn install
+   ```
 
 4. Execute um servidor de desenvolvimento local:
 
    ```bash
    yarn dev
-
+   ```
 
 5. Em sua IDE de preferência, importe a pasta **backend** e faça o update das dependências do maven
 6. O projeto está em execução e pode ser acessado apontando um navegador da Web em http://localhost:3000/
