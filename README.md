@@ -18,7 +18,7 @@ Criar e executar o projeto em seu ambiente de desenvolvimento local é muito fá
 1. Clone o código fonte:
 
    ```bash
-   git clone git@github.com:wellingtonrsdev/DSMeta.git
+   git clone git@github.com:wellingtonrsdev/dsmeta.git
    ```
 
 3. Dentro da pasta **frontend**, abra um terminal e instale as dependências do package.json:
