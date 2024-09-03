@@ -1,4 +1,10 @@
-<h1>DSMeta</h1>
+
+
+<h1 align="center">DSMeta</h1>
+<p align='center'> 
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</p>
 
 Projeto desenvolvido na semana Spring React do [DevSuperior ](https://devsuperior.com.br/), onde consiste na consulta no banco de dados retornando um relatório de vendas dos vendedores, que pode ser filtrada por datas é com opção de envio de SMS para notificar o vendedor. 
 
